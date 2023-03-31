@@ -677,3 +677,24 @@ For my hour of code I revised while loops, for loops and nested loops by tacklin
 I then prepared for my mentor meeting tomorrow. A great day.
 
 &nbsp;
+### Day 31: March 31st 2023
+**Today's Progress:**  
+
+I can hardly believe that this is day 31 of 100 days of code! Almost a third of the way there. I have learnt so much in the last month and I am so grateful to the School of Code for giving me this opportunity.  
+
+Friday is hackathon day and it was great to see what we could achieve in 8 hours. I was looking forward to working with my new team and creating something that built on all of the teaching this week about UX/UI.
+
+We reviewed our user stories and user personas from earlier in the week to reorient ourselves with our users' needs and the problem we're solving. (A Hikers Bootcamp).
+
+We reviewed our users journey flow diagram on Figma. We inserted this in a google presentation and then shared it with the team. We then used this to create a low fidelity wireframe. 
+
+We then used this to create a high fidelity wireframe on a Figma plugin (Webflow). 
+
+We chose a Color scheme using Cooler and scored 95% on Lighthouse helping the site to be distinguishable for people who are color-blind. The scheme provided good contrast.
+
+The computational thinking before we started the website construction really helped us to break it down and design decisions were so much easier as a result. This practical task really helped to solidify our learning on what is a very new subject for us.
+
+Here is a link to our site - https://t-racey.github.io/SoC-Wk3-Hackathon-Landing-Page/ - we received some positive and encouraging feedback from our coach and we are really proud of what we achieved in 8 hours.
+
+For my hour of personal coding, I enjoyed progressing through a MIMO lesson on HTML Basics - I am really enjoying the MIMO lessons and quiz Q  and A I am looking forward to completing the rest of this course over the weekend.
+
