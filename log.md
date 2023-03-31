@@ -698,3 +698,4 @@ Here is a link to our site - https://t-racey.github.io/SoC-Wk3-Hackathon-Landing
 
 For my hour of personal coding, I enjoyed progressing through a MIMO lesson on HTML Basics - I am really enjoying the MIMO lessons and quiz Q  and A I am looking forward to completing the rest of this course over the weekend.
 
+![Alt text](Images/hike.jpg)
