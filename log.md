@@ -713,3 +713,4 @@ I created the following page (based on the tutorial) and experimented with vario
 I also progressed with a highly addictive MIMO course, revising CSS Basics. I feel that it is important to keep up with the basics and to keep practicing. I then learnt how to clean up the files to get them ready for development.
 
 ![Alt text](Images/figma.jpg)
+This is not an April Fools...
