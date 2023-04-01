@@ -698,4 +698,18 @@ Here is a link to our site - https://t-racey.github.io/SoC-Wk3-Hackathon-Landing
 
 For my hour of personal coding, I enjoyed progressing through a MIMO lesson on HTML Basics - I am really enjoying the MIMO lessons and quiz Q  and A I am looking forward to completing the rest of this course over the weekend.
 
-![Alt text](Images/hike.jpg)
+![Alt text](Images/hike.jpg)  
+
+&nbsp;
+### Day 32: April 1st 2023
+**Today's Progress:**  
+
+During the week, we were introduced to the Figma app and we were tasked with creating a low fidelity wireframe for our hackathon project. My team member got to grips with the tool very quickly but I felt that I needed to do this first hand to really understand how it works. 
+
+Watched and worked alongside a two hour video from Udemy about how to design a website and dashboard from scratch in Figma. I really enjoyed this and it was great to see how a professional designer works. I am looking forward to putting this into practice over the weekend when I start my homework task.
+
+I created the following page (based on the tutorial) and experimented with various duplicated pages so that I could play with the prototype animation/presentation options .
+
+I also progressed with a highly addictive MIMO course, revising CSS Basics. I feel that it is important to keep up with the basics and to keep practicing. I then learnt how to clean up the files to get them ready for development.
+
+![Alt text](Images/figma.jpg)
