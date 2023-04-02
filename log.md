@@ -714,3 +714,16 @@ I also progressed with a highly addictive MIMO course, revising CSS Basics. I fe
 
 ![Alt text](Images/figma.jpg)
 This is not an April Fools...
+
+&nbsp;
+### Day 33: April 2nd 2023
+**Today's Progress:**  
+
+I am going to let my tweet speak for me today.  
+
+Day 33 #100DaysofCode Epic day, applying UX/UI design process to myself!  Great way to learn about user personas, user stories, low fi, sketches, wireframing & initial mock ups for my own site. Lots more to do but have loved this task 🤓❤️Thank you 
+@theSchoolOfCode   #getoutmore
+
+Find out more here! https://github.com/SchoolOfCode/bc14_w3_recap-task-T-racey 
+
+Really pleased with progress made this weekend.
