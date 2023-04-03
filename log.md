@@ -734,7 +734,7 @@ Really pleased with progress made this weekend.
 
 Week 4 of The School of Code has started and we are now learning about Testing. Time to say goodbye to Catherine and Saynab and say hello to my new coding partner - Farhiyo.
 
-We started with feedback to/from our partners last week and then had a fantastic talk from Talis (Nadeem Shasir and Elly Durrant) about testing. We learnt about the different types of testing (Unit, Integration, System, UI, and Manual). We heard what it is like to be a tester and the skills that are needed. We also heard about the tension between 'software makers' and 'software breakers'. 
+We started with feedback to/from our partners last week and then had a fantastic talk from Talis (Nadeem Shabir and Elly Durrant) about testing. We learnt about the different types of testing (Unit, Integration, System, UI, and Manual). We heard what it is like to be a tester and the skills that are needed. We also heard about the tension between 'software makers' and 'software breakers'. 
 
 Nadeem was very open about what he looks for in a junior developer and what he thinks we should be doing to prepare for our future careers. He was clear that team work is *key* and that we should be working on our soft skills as well as our technical skills. A quote I loved was that, a mistake that junior developers make is that they try to 'boil the ocean'! "Just solve the problem in front of you and then move on to the next problem".
 
