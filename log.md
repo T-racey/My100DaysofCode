@@ -752,3 +752,13 @@ I really enjoyed this and I am looking forward to learning more about testing in
 I finished my day progressing with MIMO I reviewed Javascript basics and am now working through HTML Intermediate. I am finding this constant review of the basics helpful and I am enjoying the MIMO lessons.
 
 ![Alt text](Images/nb.jpg)
+
+&nbsp;
+### Day 35: April 4th 2023
+**Today's Progress:** 
+
+Today was testing! Literally - we arranged, acted and asserted in the Node JS environment. We learnt about the different types of testing (Unit, Integration, UI). We used Jest and had a go at writing our own tests. We had to work out what function was needed to make the test pass. We then had to try and make the tests fail.
+
+I was stuck for absolutely ages and a colleague suggested reinstalling Jest. I did this and it worked! I was so pleased with the gree passes. 
+
+Internet troubles today made for a challenging day with zoom. I am looking forward to getting back to normal tomorrow.
