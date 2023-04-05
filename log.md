@@ -769,6 +769,8 @@ Internet troubles today made for a challenging day with zoom. I am looking forwa
 
 Today was exceptionally frustrating. Testing is testing me and at points I felt like I was completely losing the plot. I am not sure if it is the subject matter or the fact that I am tired but I am finding it hard to concentrate and I am struggling to get my head around the details. 
 
+We were introduced to Integrated testing and in particular Playright. We were tasked with writing tests to check a to do list app.
+
 I am going to keep going and I am going to keep trying. I am going to keep learning. I am going to keep coding!
 
 Me and my coding partner spent two hours today on a missing {} error. We tried everything and nothing worked. We then had to ask for help. A coach took 30 seconds to pinpoint our mistake. ☠️
