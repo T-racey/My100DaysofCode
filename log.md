@@ -762,3 +762,21 @@ Today was testing! Literally - we arranged, acted and asserted in the Node JS en
 I was stuck for absolutely ages and a colleague suggested reinstalling Jest. I did this and it worked! I was so pleased with the gree passes. 
 
 Internet troubles today made for a challenging day with zoom. I am looking forward to getting back to normal tomorrow.
+
+&nbsp;
+### Day 36: April 5th 2023
+**Today's Progress:** 
+
+Today was exceptionally frustrating. Testing is testing me and at points I felt like I was completely losing the plot. I am not sure if it is the subject matter or the fact that I am tired but I am finding it hard to concentrate and I am struggling to get my head around the details. 
+
+I am going to keep going and I am going to keep trying. I am going to keep learning. I am going to keep coding!
+
+Me and my coding partner spent two hours today on a missing {} error. We tried everything and nothing worked. We then had to ask for help. A coach took 30 seconds to pinpoint our mistake. ☠️
+
+After an hours exercise, I came back to it and added a couple of other tests. These worked, but I always need a shove in the right direction. 
+
+![Alt text](Images/Tests%20passed.jpg)
+
+The frustration is that I can understand the principles but the details are eluding me. 
+
+I am dreading the hackathon tomorrow!
