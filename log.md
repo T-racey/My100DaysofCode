@@ -781,4 +781,17 @@ After an hours exercise, I came back to it and added a couple of other tests. Th
 
 The frustration is that I can understand the principles but the details are eluding me. 
 
-I am dreading the hackathon tomorrow!
+I am dreading the hackathon tomorrow!  
+ &nbsp;
+### Day 37: April 6th 2023
+**Today's Progress:** 
+
+The day started positively with an excellent talk from Patrick about the Inner Critic and Building Resistance. I really enjoyed this and I am no doubt a Pusher and a Perfectionist. I am going to work on my inner critic and I am going to try and be kinder to myself.
+
+This was followed by a great talk from Dani Markovits and Patrick Shea-Stamford about Linked-In and new features since I last used it. As a result, I have updated my profile and connected with some more SoC colleagues.
+
+I then had a meeting with my mentor who gave me some fantastic resource links about Testing, following my difficult day yesterday. I am going to spend some time this weekend reading these and I am going to try and get my head around the details.
+
+I then joined my coding buddy Farhiyo for a testing hackathon, which was, well, testing (again). The idea was that we were supposed to be writing tests for a to do list app - again. We struggled at the basic set up of the run time environment.
+
+However, I have spent a further three hours reviewing other colleagues work and created a brand new branch off of our repo with a working set of tests for the to do list app. I am really pleased with this and I am looking forward to the testing re-cap homework this weekend - yes, honestly!
