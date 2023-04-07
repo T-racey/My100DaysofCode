@@ -795,3 +795,22 @@ I then had a meeting with my mentor who gave me some fantastic resource links ab
 I then joined my coding buddy Farhiyo for a testing hackathon, which was, well, testing (again). The idea was that we were supposed to be writing tests for a to do list app - again. We struggled at the basic set up of the run time environment.
 
 However, I have spent a further three hours reviewing other colleagues work and created a brand new branch off of our repo with a working set of tests for the to do list app. I am really pleased with this and I am looking forward to the testing re-cap homework this weekend - yes, honestly!
+
+ &nbsp;
+### Day 38: April th 2023
+**Today's Progress:** 
+
+Good Friday! Not a day off. But no School of Code daily squats either!
+
+Started with a progress interview with the very lovely Callum. Somebody else's turn to experience interrupted wifi - three attempts to complete the interview and we finally got there. It was illuminating and has given me much to think about.
+
+I then started task 1 of my weekend homework and completed writing my own cycling themed codewar challenge. I have written the code and challenge notes and I am now ready to begin working on the testing with Jest. I am really enjoying this and I am looking forward to completing the challenge and submitting it.
+
+I then spent a couple of hours on my Web Development course with MIMO. I am 19% of the way through and completed CSS INtermediate and Types and Comparisons. I really need this revision of what I have covered with the SoC a couple of weeks ago which would otherwise fall out of the back of my head!
+
+<div style="text-align:center">
+<img src="Images/LB.png" alt="description of image" width="40%">
+</div>
+
+ Hey I was position number 1 on the wooden spoon leaderboard at close of play yesterday, meaning that I have been promoted to the stone lead! 🤣
+
