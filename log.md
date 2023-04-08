@@ -797,7 +797,7 @@ I then joined my coding buddy Farhiyo for a testing hackathon, which was, well, 
 However, I have spent a further three hours reviewing other colleagues work and created a brand new branch off of our repo with a working set of tests for the to do list app. I am really pleased with this and I am looking forward to the testing re-cap homework this weekend - yes, honestly!
 
  &nbsp;
-### Day 38: April th 2023
+### Day 38: April 7th 2023
 **Today's Progress:** 
 
 Good Friday! Not a day off. But no School of Code daily squats either!
@@ -814,3 +814,55 @@ I then spent a couple of hours on my Web Development course with MIMO. I am 19% 
 
  Hey I was position number 1 on the wooden spoon leaderboard at close of play yesterday, meaning that I have been promoted to the stone lead! 🤣
 
+ &nbsp;
+### Day 39: April 8th 2023
+**Today's Progress:** 
+
+I completed my codewar challenge and submitted it!
+
+I revised the basics of testing with Jest and constructed 6 tests for my challenge. I then wrote the code to make the tests pass. I am really pleased with this due to the relative lack of success with this last week. I cannot believe how great it feels when the tests pass!
+
+I then spent an hour revising Accessibility and ARIA with MIMO. 
+
+
+## You are a coach 🚲 for a professional🏆 bicycle racing team, 
+and you need to analyse the results of the team's recent time trial. 
+The time trial consisted of a single stage, and for each rider on the team, 
+you have recorded the time that they took to complete the stage.
+Write a function calculateAverageTime(results) that takes an array results as input, 
+where results[i] represents the time (in minutes) that rider i took to complete the 
+stage. Your function should calculate the average time taken by all riders and return 
+it as a string with two decimal places.
+
+For example, if the input results array is:
+
+[20, 22, 24, 26, 28]
+
+This represents a time trial with 5 riders on the team. Rider 1 
+completed the stage in 20 minutes, rider 2 in 22 minutes, and so on. 
+
+Assume that the number of riders on the team is between 1 and 10, 
+and that the times are all positive integers.
+
+👉//write your code here.
+  function calculateAverageTime(arr) {
+{
+
+//Your function should calculate the average time taken by all riders and be returned as a string with two decimal places:
+"24.00"🕔
+
+TESTS
+
+// Test to verify if the function correctly calculates the average time for a given input array
+
+// Test to verify if the function returns 0 when the input array is empty
+
+ // Test to verify if the function returns the only element of the input array when it contains only one element
+
+// Test to verify if the function throws an error when the input is not an array
+
+// Test to verify if the function throws an error when the input array contains non-numeric values
+
+ // Test to verify if the function throws an error when the input array contains more than 10 elements
+
+ ~~
