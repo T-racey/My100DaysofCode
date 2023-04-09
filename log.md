@@ -865,4 +865,14 @@ TESTS
 
  // Test to verify if the function throws an error when the input array contains more than 10 elements
 
- ~~
+&nbsp;
+### Day 40: April 9th 2023
+**Today's Progress:** 
+
+Happy Easter Sunday! I spent the morning with my family and then spent the afternoon revising the basics of testing with Playwright. I then completed the final testing task homework for the week. I wrote Playwright tests for a simple tweet app, covering user flows for creating and displaying tweets. 
+
+<div style="text-align:center">
+<img src="Images/PW.jpg" alt="description of image" width="80%">
+</div>
+
+I then completed two hours revision with Mimo, on CSS Layout and JS Conditionals 👩‍💻Happy Easter everyone 🐰🍫
