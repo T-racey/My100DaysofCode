@@ -876,3 +876,41 @@ Happy Easter Sunday! I spent the morning with my family and then spent the after
 </div>
 
 I then completed two hours revision with Mimo, on CSS Layout and JS Conditionals 👩‍💻Happy Easter everyone 🐰🍫
+
+&nbsp;
+### Day 41: April 10th 2023
+**Today's Progress:** 
+
+Today was a prepare for React day.  
+
+This feels like a big step up, based on nothing, as recall I had not written a line of code 4 weeks ago. However, most coders I have spoken to spend a lot of time with React and so I am grateful for the four day weekend to get my head around it. It has been great finishing the 'testing' homework AND having time to read about what we are about to do. 
+
+I read about what React is, why we'd want to use it, and what's happening under the hood. I watched a great 2 minute video! (but that was  abit of a con as it was so fast I slowed it down): https://www.youtube.com/watch?v=Tn6-PIqc4UM "It's so easy a caveman could do it!" My first time hearing about JSX. (Fireship)
+The libraries sound great and I am looking forward to using them.
+
+Then on to Mosh's What is React and why is it so popular - https://www.youtube.com/watch?v=N3AkSS5hXMA - wow - lots of new concepts here. Revision of objects, DOM, and the virtual DOM. New terms such as state and render.
+
+The - Aaron Jack's  React in 5 mins- https://www.youtube.com/watch?v=MRIMT0xPXFI
+Again, I slowed this one down as well. 🧠🤯
+
+I then read a few blogs & resources:
+
+	• FreeCodeCamp: Why you should use React.js for web development
+	• SurviveJS: Introduction to React
+	• FreeCodeCamp: JSX in React
+	• Blog: The role of Babel in React
+
+Looking forward to getting stuck in!
+
+
+
+
+
+
+
+
+
+
+
+
+
