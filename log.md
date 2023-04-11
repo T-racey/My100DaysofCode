@@ -902,11 +902,38 @@ I then read a few blogs & resources:
 
 Looking forward to getting stuck in!
 
+&nbsp;
+### Day 42: April 11th 2023
+**Today's Progress:** 
+
+It's Monday - squats, followed by feedback on my coding partner from last week. Then met my two lovely new coding partners - Darren and Eric.
+
+We covered why so many developers use React, and how it works in its raw state. Fortunately we didn't stay here too long and moved on to the next step - JSX and the Create React App. Colleagues asked - why would Facebook give this away for free? 
+
+Maybe for the following reasons:  
+
+*"When you create a framework, it make lots of task easy and you can develop faster, but it also creates bugs, which need to be tested and fixed, before you can use in more and more projects with wider use cases. Testing the framework on wide set of use case is not easy and certainly is very expensive. Hence, open sourcing the framework suddenly provided a bigger set of testers who are going to use the framework and give feedback. It saves money and makes the framework better, more brains work on coming up with the ideas to make it faster and more usesable."* 
+
+We covered how to install  a basic React app and were given an introduction to components and props. We then covered how to import and export components. Finally we covered how to use props to pass data to components and the passing of props down the tree.
+
+<div style="text-align:center">
+<img src="Images/ajs.jpg" alt="description of image" width="80%">
+</div>
+
+<div style="text-align:center">
+<img src="Images/cjs.jpg" alt="description of image" width="80%">
+</div>
+
+<div style="text-align:center">
+<img src="Images/bjs.jpg" alt="description of image" width="80%">
+</div>
 
 
 
 
+Along with one of my pairing buddies we managed to complete the 5 set tasks! The construction of the app was a bit of a challenge, but we got there in the end. The interplay between the component and js files was 'interesting!'.
 
+For a further hour of coding I revised Flexbox basics and Flexbox containers.git
 
 
 
