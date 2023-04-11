@@ -933,7 +933,7 @@ We covered how to install  a basic React app and were given an introduction to c
 
 Along with one of my pairing buddies we managed to complete the 5 set tasks! The construction of the app was a bit of a challenge, but we got there in the end. The interplay between the component and js files was 'interesting!'.
 
-For a further hour of coding I revised Flexbox basics and Flexbox containers.git
+For a further hour of coding I revised Flexbox basics and Flexbox containers.
 
 
 
