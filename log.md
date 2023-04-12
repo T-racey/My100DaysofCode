@@ -936,8 +936,42 @@ Along with one of my pairing buddies we managed to complete the 5 set tasks! The
 For a further hour of coding I revised Flexbox basics and Flexbox containers.
 
 
+&nbsp;
+### Day 43: April 12th 2023
+**Today's Progress:** 
+
+Big "React" day today, on *two* levels  
+
+*Level 1 - React*
+
+Today we covered the following:
+
+- React app setup and file organization
+- Creating and exporting functional components in React
+- Using JSX syntax in React components
+- Managing state in React using useState hook
+- Handling user input using onChange attribute in React
+- Passing props down to child components in React
+- Using inline styling in React
+- Reusing components in React  
+   
+We then completed a task to create a simple React app that renders a text input and a button. When the button is clicked, the text input should be rendered below the button in a different font.
+
+&nbsp;
+
+<div style="text-align:center">
+<img src="Images/tf.jpg" alt="description of image" width="60%">
+</div>
 
 
+&nbsp;
+
+Our afternoon task involved, installing Node modules, creating Input and Item components in React, importing and using these components in App.js. We managed state using useState hook, handled user input using onChange attribute, passed props down to child components, used inline styling in React components, and reused components to render the same text in different fonts.
+
+At this stage I do not entirely understand how all the lego pieces fit together and that I am learning by rote. I am sure this will become clearer as we progress.
 
 
+*Level 2 - React React React 🤯*
+
+Five days ago, I had a progress interview. At the end of the interview I was told that I am exactly where I should be after 4 weeks. Whoop!
 
