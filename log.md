@@ -940,9 +940,9 @@ For a further hour of coding I revised Flexbox basics and Flexbox containers.
 ### Day 43: April 12th 2023
 **Today's Progress:** 
 
-Big "React" day today, on *two* levels  
+Big "React" day today,  
 
-*Level 1 - React*
+*React*
 
 Today we covered the following:
 
@@ -971,7 +971,38 @@ Our afternoon task involved, installing Node modules, creating Input and Item co
 At this stage I do not entirely understand how all the lego pieces fit together and that I am learning by rote. I am sure this will become clearer as we progress.
 
 
-*Level 2 - React React React 🤯*
 
-Five days ago, I had a progress interview. At the end of the interview I was told that I am exactly where I should be after 4 weeks. Whoop!
 
+&nbsp;
+### Day 44: April 13th 2023
+**Today's Progress:** 
+
+I thought that last week was the hardest week of all. I was wrong. Whilst I can really see the power of React, it feels like a messy mix of HTML, CSS and JS.
+
+Today was the hardest day of all. We are paying for the bank holiday (we have been told) by having to absorb 4 days of content in 3 days. 
+
+This is me:
+
+<div style="text-align:center">
+<img src="Images/fire.jpg" alt="description of image" width="60%">
+</div>
+
+There has simply been too much information to digest, practice and render to the right part of my brain.
+
+We spent nearly the entire morning on Codewars, decision making (dot method versus roman thumb etc) and a few other things.
+
+The just before lunch....We covered:
+
+- React and immutability.
+- The spread and slice operator
+- Basic use with arrays
+- BASIC (this is funny) use with objects
+- We had an array task which we barely started in class. I played around with this for homework - lots of googling for help on arrays as we hardly cloned the repo before we were on to the next thing
+  
+![Alt text](Images/Array.jpg)
+
+- Imperative v declarative programming
+- I then (this evening) completed another task we hardly started on immutable update patterns
+- I then attempted a fulwhich was handed to us at 4.30pm - A comprehensive task on based on a blog post app, but I was so tired I kept going around and around in circles - I am gong to try and correct my work on this one with my mentor tomorrow. I mapped it out and managed task 2 but then it all fell apart....
+
+![Alt text](Images/draw.jpg)
