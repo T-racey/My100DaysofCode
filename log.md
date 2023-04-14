@@ -1006,3 +1006,18 @@ The just before lunch....We covered:
 - I then attempted a fulwhich was handed to us at 4.30pm - A comprehensive task on based on a blog post app, but I was so tired I kept going around and around in circles - I am gong to try and correct my work on this one with my mentor tomorrow. I mapped it out and managed task 2 but then it all fell apart....
 
 ![Alt text](Images/draw.jpg)
+
+
+
+&nbsp;
+### Day 45: April 14th 2023
+**Today's Progress:** 
+
+I can honestly say that today has been tough. We were tasked with creating a simple to-do list app using React. We Produced a beautiful component map and then struggled to comprehend the actual code construction regarding states, props and functions.  
+
+The best part about the week has been working with Darren and Eric who have been absolute gems. We have been able to help each other out and have a laugh along the way. I have learnt a lot from them and I have really appreciated their help and support and also the sage advice from Eric's wife who is a successful bootcamper.
+
+I also had a great meeting with my mentor who helped run through a basic React app and provided me with some really helpful resources
+
+For my extra hour of code I revised arrays.
+
