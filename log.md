@@ -1021,3 +1021,16 @@ I also had a great meeting with my mentor who helped run through a basic React a
 
 For my extra hour of code I revised arrays.
 
+&nbsp;
+### Day 46: April 15th 2023
+**Today's Progress:** 
+
+Tried to fix the leaky bucket today by revising the following  items including ES6, The Dom, and React Basics.
+Then attempted to re-do a very basic to-do app which I did accomplish. Small win and dopamine hit.
+  
+  &nbsp;
+<div style="text-align:center">
+<img src="Images/todo.jpg" alt="description of image" width="60%">
+</div>
+
+I also tried out a couple of Exercism.org/ challenges and I must say that they are MUCH better than Codewars for me as there is a lesson alongside the challenges and the learning path is better structured and more logical. I will be using this site for the rest of my bootcamp or at least until I can step up to Codewars with confidence. 
