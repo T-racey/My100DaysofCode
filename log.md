@@ -1034,3 +1034,30 @@ Then attempted to re-do a very basic to-do app which I did accomplish. Small win
 </div>
 
 I also tried out a couple of Exercism.org/ challenges and I must say that they are MUCH better than Codewars for me as there is a lesson alongside the challenges and the learning path is better structured and more logical. I will be using this site for the rest of my bootcamp or at least until I can step up to Codewars with confidence. 
+
+&nbsp;
+### Day 47: April 16th 2023
+**Today's Progress:** 
+
+Today I asked a lot of questions of the internet. I researched Stack Overflow, re-read the page on the React docs (https://beta.reactjs.org/learn/thinking-in-react) about 'thinking in React' as a review of the major philosophy and concepts of the past week.
+
+I also read:
+
+- The "Describing the UI" (https://beta.reactjs.org/learn/describing-the-ui ) (on reviewing components, JSX, and props). 
+- The "Adding interactivity" (https://beta.reactjs.org/learn/thinking-in-react ) and "managing state" (https://beta.reactjs.org/learn/managing-state) sections in the docs to solidify my knowledge about how state works in a React app to help with the tasks recap task which was based on a blog page with comments.
+
+I then read the recap task requirements...and re-read the above 📖.
+
+I attempted a draft of the task and then spent hours with Chat GPT to unravel my mistakes until I achieved a working copy. I am finding the React syntax confusing - I almost wish we were given a bare bones HTML document to work with and then we could add the React syntax to it. I am sure this will become clearer as we progress.
+
+ &nbsp;
+<div style="text-align:center">
+<img src="Images/Blog.jpg" alt="description of image" width="80%">
+</div>
+  &nbsp;
+
+I then revised - Javascript Events, Synchrony and Asynchrony, Javascript classes, Modules, Libraries and Nodes, and the DOM.
+
+I also completed a couple of Exercism.org/ challenges.
+
+This has been a massively busy weekend of work but I am so concerned about another week of React,then a project and having nothing to contribute to the group. 
