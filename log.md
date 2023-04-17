@@ -1061,3 +1061,23 @@ I then revised - Javascript Events, Synchrony and Asynchrony, Javascript classes
 I also completed a couple of Exercism.org/ challenges.
 
 This has been a massively busy weekend of work but I am so concerned about another week of React,then a project and having nothing to contribute to the group. 
+
+&nbsp;
+### Day 48: April 17th 2023
+**Today's Progress:**
+
+This is how I feel today.
+
+&nbsp;
+<div style="text-align:center">
+<img src="Images/poke.jpg" alt="description of image" width="80%">
+</div>
+  &nbsp;
+
+Started the day thanking my great team mates from last week and meeting new great team mates for this week. We are all in the same boat and feeling like we do not get React.
+
+We then had a talk from Rohit Shukla from Bravissimo about UX.
+
+In terms of what we covered today,  we had a quick review of React from last week and then we were introduced to the useEffect hook and used it to fetch random Pokemons.
+
+I am really tired and throwing more time at React is not helping me win at the moment. I need a break this evening.
