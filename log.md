@@ -1081,3 +1081,36 @@ We then had a talk from Rohit Shukla from Bravissimo about UX.
 In terms of what we covered today,  we had a quick review of React from last week and then we were introduced to the useEffect hook and used it to fetch random Pokemons.
 
 I am really tired and throwing more time at React is not helping me win at the moment. I need a break this evening.
+
+&nbsp;
+### Day 49: April 18th 2023
+**Today's Progress:**
+
+What a difference a day makes.
+Yesterday I felt like I was drowing. Today, I feel a little better and I am starting to see the light at the end of the React (very basic React that is) tunnel.
+
+We started today with the usual squats, codwars ant review exam. 
+We then looked at Switch statements and I must admit I prefer these to very long if, if else, statements. 
+
+We then progressed with React useReducer hooks. We used this to refactor a Counter component so that it uses useReducer instead of useState. We turned off Copilot and did this ourselves. This helped and bertween the three of us we managed to make this work. Dopamine hit. 🎉
+
+We then had a short break and Liz said 'we hear you' and said that as many of you are feeling overloaded and need some time to consolidate your learning, I am giving you a gift. We have been given 'individual time' to revisit any learning we are struggling with. 
+
+I therefore github cloned the final task for the day:
+
+"Review and reinforce concepts: Use this time to revisit any concepts from last week or yesterday that you still find confusing. You can complete unfinished workshops, collaborate with your fellow bootcampers, or explore online resources to deepen your understanding".
+
+I feel like all my Christmases have come at once!!!!This could not have happened at a better moment in this bootcamp.
+
+I am going to spend the rest of the day revising React. Which is excellent timing as this is exactly where I have got to with Mimo.
+
+&nbsp;
+<div style="text-align:center">
+<img src="Images/mimo.jpg" alt="description of image" width="80%">
+</div>
+  &nbsp;
+
+I am out this evening for the first time since the Bootcamp started! Don't worry, I am not abandoning coding. I am going to my first Codebar, so this is great timing, to have this space this afternoon. 
+
+
+
