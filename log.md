@@ -1106,7 +1106,7 @@ I am going to spend the rest of the day revising React. Which is excellent timin
 
 &nbsp;
 <div style="text-align:center">
-<img src="Images/mimo.jpg" alt="description of image" width="80%">
+<img src="Images/Mimo.jpg" alt="Mimo" width="50%">
 </div>
   &nbsp;
 
