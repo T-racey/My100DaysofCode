@@ -419,7 +419,7 @@ How to add and delete HTML elements
 We changed some elements to get a penny doubling scheme up and running, ready to create some riches. 💰💸
 Here is the link - https://t-racey.github.io/SoC-Wk2-Penny-Doubling-Pyramid-Scheme/
 
-I also (finally) completed a CodeWar challenge - better get cracking with these as there will be a SoC leaderboard soon!
+I also (finally) completed a CodeWar challenge - better get cracking with these as there will be a SoC leader board soon!
 
 I spent my official #100DaysofCode extra hour:hourglass: testing myself on what I have learned today about DOM and I also completed another CodeWar challenge (just the one!).
 
@@ -449,7 +449,7 @@ I hope that I look back at this in a couple of weeks and appreciate how far I ha
 
 **Thoughts:**
 
-It was great to work with the team today cloning, pushing and pulling our work thrugh Github. I'm looking forward to using this more.
+It was great to work with the team today cloning, pushing and pulling our work through Github. I'm looking forward to using this more.
 
 &nbsp;
 
@@ -812,7 +812,7 @@ I then spent a couple of hours on my Web Development course with MIMO. I am 19% 
 <img src="Images/LB.png" alt="description of image" width="40%">
 </div>
 
- Hey I was position number 1 on the wooden spoon leaderboard at close of play yesterday, meaning that I have been promoted to the stone lead! 🤣
+ Hey I was position number 1 on the wooden spoon leader board at close of play yesterday, meaning that I have been promoted to the stone lead! 🤣
 
  &nbsp;
 ### Day 39: April 8th 2023
@@ -885,7 +885,7 @@ Today was a prepare for React day.
 
 This feels like a big step up, based on nothing, as recall I had not written a line of code 4 weeks ago. However, most coders I have spoken to spend a lot of time with React and so I am grateful for the four day weekend to get my head around it. It has been great finishing the 'testing' homework AND having time to read about what we are about to do. 
 
-I read about what React is, why we'd want to use it, and what's happening under the hood. I watched a great 2 minute video! (but that was  abit of a con as it was so fast I slowed it down): https://www.youtube.com/watch?v=Tn6-PIqc4UM "It's so easy a caveman could do it!" My first time hearing about JSX. (Fireship)
+I read about what React is, why we'd want to use it, and what's happening under the hood. I watched a great 2 minute video! (but that was  a bit of a con as it was so fast I slowed it down): https://www.youtube.com/watch?v=Tn6-PIqc4UM "It's so easy a caveman could do it!" My first time hearing about JSX. (Fireship)
 The libraries sound great and I am looking forward to using them.
 
 Then on to Mosh's What is React and why is it so popular - https://www.youtube.com/watch?v=N3AkSS5hXMA - wow - lots of new concepts here. Revision of objects, DOM, and the virtual DOM. New terms such as state and render.
@@ -1003,7 +1003,7 @@ The just before lunch....We covered:
 
 - Imperative v declarative programming
 - I then (this evening) completed another task we hardly started on immutable update patterns
-- I then attempted a fulwhich was handed to us at 4.30pm - A comprehensive task on based on a blog post app, but I was so tired I kept going around and around in circles - I am gong to try and correct my work on this one with my mentor tomorrow. I mapped it out and managed task 2 but then it all fell apart....
+- I then attempted a task which was handed to us at 4.30pm - A comprehensive task on based on a blog post app, but I was so tired I kept going around and around in circles - I am gong to try and correct my work on this one with my mentor tomorrow. I mapped it out and managed task 2 but then it all fell apart....
 
 ![Alt text](Images/draw.jpg)
 
@@ -1087,12 +1087,12 @@ I am really tired and throwing more time at React is not helping me win at the m
 **Today's Progress:**
 
 What a difference a day makes.
-Yesterday I felt like I was drowing. Today, I feel a little better and I am starting to see the light at the end of the React (very basic React that is) tunnel.
+Yesterday I felt like I was drowning. Today, I feel a little better and I am starting to see the light at the end of the React (very basic React that is) tunnel.
 
 We started today with the usual squats, codwars ant review exam. 
 We then looked at Switch statements and I must admit I prefer these to very long if, if else, statements. 
 
-We then progressed with React useReducer hooks. We used this to refactor a Counter component so that it uses useReducer instead of useState. We turned off Copilot and did this ourselves. This helped and bertween the three of us we managed to make this work. Dopamine hit. 🎉
+We then progressed with React useReducer hooks. We used this to refactor a Counter component so that it uses useReducer instead of useState. We turned off Copilot and did this ourselves. This helped and between the three of us we managed to make this work. Dopamine hit. 🎉
 
 We then had a short break and Liz said 'we hear you' and said that as many of you are feeling overloaded and need some time to consolidate your learning, I am giving you a gift. We have been given 'individual time' to revisit any learning we are struggling with. 
 
@@ -1118,9 +1118,9 @@ I am out this evening for the first time since the Bootcamp started! Don't worry
 
 Half way through 100 days of code! 🎉
 
-We started the day with Git version control and how to set up development branches, makes changes, resolve conflicts and then merge them back into the main branch. This is to hlp set us up with our week long project next week.
+We started the day with Git version control and how to set up development branches, makes changes, resolve conflicts and then merge them back into the main branch. This is to help set us up for our week long project, next week.
 
-We were then introduced to three artciles about testing in React:
+We were then introduced to three articles about testing in React:
 
  - https://testing-library.com/docs/react-testing-library/intro/
 
@@ -1130,8 +1130,8 @@ We were then introduced to three artciles about testing in React:
 
  - https://testing-library.com/docs/react-testing-library/api/#render
 
-We discussed comparisons and differences with eact versus non React testing.
+We discussed comparisons and differences with React versus non React testing.
 
-We then attempted a team task to test a React component. We finally managed to complete test one slightly after hours - need to pra tice this more.
+We then attempted a team task to test a React component. We finally managed to complete test one slightly after hours - definitely need to practice this more.
 
 At the end of the day, we said goodbye to Liz Kaufman who has been our main coach so far on School of Code. It will be strange not having her around.
