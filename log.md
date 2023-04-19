@@ -1112,5 +1112,26 @@ I am going to spend the rest of the day revising React. Which is excellent timin
 
 I am out this evening for the first time since the Bootcamp started! Don't worry, I am not abandoning coding. I am going to my first Codebar, so this is great timing, to have this space this afternoon. 
 
+&nbsp;
+### Day 50: April 19th 2023
+**Today's Progress:**
+
+Half way through 100 days of code! 🎉
+
+We started the day with Git version control and how to set up development branches, makes changes, resolve conflicts and then merge them back into the main branch. This is to hlp set us up with our week long project next week.
+
+We were then introduced to three artciles about testing in React:
+
+ - https://testing-library.com/docs/react-testing-library/intro/
 
 
+ - https://testing-library.com/docs/react-testing-library/example-intro/
+
+
+ - https://testing-library.com/docs/react-testing-library/api/#render
+
+We discussed comparisons and differences with eact versus non React testing.
+
+We then attempted a team task to test a React component. We finally managed to complete test one slightly after hours - need to pra tice this more.
+
+At the end of the day, we said goodbye to Liz Kaufman who has been our main coach so far on School of Code. It will be strange not having her around.
