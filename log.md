@@ -1135,3 +1135,41 @@ We discussed comparisons and differences with React versus non React testing.
 We then attempted a team task to test a React component. We finally managed to complete test one slightly after hours - definitely need to practice this more.
 
 At the end of the day, we said goodbye to Liz Kaufman who has been our main coach so far on School of Code. It will be strange not having her around.
+
+&nbsp;
+### Day 51: April 20th 2023
+**Today's Progress:**
+
+I loved today!
+Very big picture subjects today.
+Our final mindset session was on creating a team manifesto and in the context of next weeks project task. We looked at different cultures (Nike v The HubSpot).
+
+Apparently, from a google research study, the most productive teams are those that have a high level of psychological safety. This is where team members feel safe to take risks, ask questions and make mistakes.
+
+We then looked at Agile and the afternoon concluded with finishing incomplete class projects and also researching various Agile methodologies noted here so I can return and review.
+
+*Trello* ... is a web-based tool that enables teams to manage their projects and tasks using a Kanban-style board. It provides a visual way to track progress, assign tasks, and collaborate with team members. Trello is a popular tool among agile teams, as it allows for flexibility and easy customization.
+
+*Scrum* ... is an agile framework that emphasizes teamwork, collaboration, and iterative progress. It involves breaking down complex projects into smaller, more manageable pieces, known as sprints. Scrum teams have daily standups to review progress, plan the day, and identify any roadblocks.
+
+*Kanban* .... is a visual project management system that focuses on delivering work in progress (WIP) and limiting work items to increase efficiency. Kanban boards allow team members to visualize their workflow and prioritize tasks, ensuring that the team focuses on the most critical work items.
+
+*Extreme Programming (XP)* ... is a software development methodology that emphasizes continuous improvement and delivery, customer feedback, and team collaboration. XP involves practices such as pair programming, continuous integration, and automated testing to improve software quality and reduce time to market.
+
+*Themes, initiatives, epics, and user stories* ... are all used in agile project management to define and prioritize work items. Themes and initiatives are broad areas of work, while epics are large, complex pieces of work that can be broken down into smaller user stories. User stories are individual requirements or features that provide value to the customer.
+
+*The product backlog* ... is a prioritized list of work items that the team will work on. It is continually refined throughout the project to ensure that the most valuable items are at the top of the list.
+
+*Burn down charts* ... are visual representations of the team's progress towards completing the work. They show how much work is left to do and how quickly the team is completing it. This information can help the team identify potential roadblocks and adjust their approach as needed.
+
+*MVP* ... stands for minimum viable product, which is the simplest version of a product that can be released to the market. MVPs are often used in agile development to get feedback from customers early on, allowing the team to make adjustments and improve the product.
+
+*Sprints* ... are time-boxed iterations of work in agile development. Each sprint typically lasts two to four weeks and involves planning, executing, and reviewing a set of work items.
+
+*Standups and retrospectives* ... are two essential meetings in agile development. Standups are daily meetings where team members discuss progress and plan the day. Retrospectives are regular meetings where the team reflects on the previous sprint and identifies areas for improvement.
+
+*Agile estimation techniques* ... are used to estimate the effort required to complete work items. These techniques include planning poker, t-shirt sizing, and affinity mapping, among others. They help the team prioritize work items and ensure that they are delivering value to the customer in a timely manner.
+
+*Finally, I then had a go at setting up another React project to practice coding useState and Props.*
+
+
