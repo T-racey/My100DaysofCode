@@ -1172,4 +1172,10 @@ We then looked at Agile and the afternoon concluded with finishing incomplete cl
 
 *Finally, I then had a go at setting up another React project to practice coding useState and Props.*
 
+&nbsp;
+<div style="text-align:center">
+<img src="Images/mrp.jpg" alt="React todo list" width="50%">
+</div>
+  &nbsp;
+
 
