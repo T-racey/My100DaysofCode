@@ -1178,4 +1178,19 @@ We then looked at Agile and the afternoon concluded with finishing incomplete cl
 </div>
   &nbsp;
 
+&nbsp;
+### Day 52: April 21st 2023
+**Today's Progress:**
 
+Another Friday, another hackathon - with George and Jo.
+The requirement?
+
+Choose at least one external API to fetch data from that you'll then use in your React app. We chose a weather api for local friends to review the weather and suggest  a picnic meetup.
+
+&nbsp;
+<div style="text-align:center">
+<img src="Images/pichack.jpg" alt="React todo list" width="50%">
+</div>
+  &nbsp;
+
+  We focused on a minimum viable product and had something to present - so this represents a win in my book as sometimes it is easy not to know where to start or to get stuck down a rabbit hole.
