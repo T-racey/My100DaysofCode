@@ -1194,3 +1194,21 @@ Choose at least one external API to fetch data from that you'll then use in your
   &nbsp;
 
   We focused on a minimum viable product and had something to present - so this represents a win in my book as sometimes it is easy not to know where to start or to get stuck down a rabbit hole.
+  
+&nbsp;
+### Day 53: April 22nd 2023
+**Today's Progress:**
+
+I've found the past couple of weeks tricky - piling more knowledge on top of React and not playing with it enough.  
+
+Today I set time aside to complete a side project for me and a friend to play. A simple noughts & crosses game made with the correct dominant colour scheme (pink) and where T will win more than O - of course, no special setting there.  
+
+This took ages and I need to practice this kind of thing again and again to get more comfy with states and props. 
+
+&nbsp;
+<div style="text-align:center">
+<img src="Images/TO.jpg" alt="React todo list" width="50%">
+</div>
+&nbsp;
+
+I then took a complete age attempting to publish this to Github Pages as it's different when it’s a React App. Pretty chuffed that I got there in the end and discovered some new git commands and JSON file edits in the process.
