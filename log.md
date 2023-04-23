@@ -1212,3 +1212,9 @@ This took ages and I need to practice this kind of thing again and again to get 
 &nbsp;
 
 I then took a complete age attempting to publish this to Github Pages as it's different when it’s a React App. Pretty chuffed that I got there in the end and discovered some new git commands and JSON file edits in the process.
+
+&nbsp;
+### Day 54: April 23rd 2023
+**Today's Progress:**
+
+Almost a rest day but not quite - revised some Javascript, HTML and CSS work to get me ready for project week this week. Practice practice practice!
