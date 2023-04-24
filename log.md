@@ -1218,3 +1218,11 @@ I then took a complete age attempting to publish this to Github Pages as it's di
 **Today's Progress:**
 
 Almost a rest day but not quite - revised some Javascript, HTML and CSS work to get me ready for project week this week. Practice practice practice!
+
+
+&nbsp;
+### Day 55: April 24th 2023
+**Today's Progress:**
+
+Great day today! This is project week - my first ever week long hackathon.
+Loved meeting my new team members and love what we achieved today. We wrote our team manifesto, applied the Disney model to idea creation and selection of our own product we are going to build this week. We mapped out our MVP and also set an agenda for our daily team retrospectives. Great day and looking forward to this week immensely.
