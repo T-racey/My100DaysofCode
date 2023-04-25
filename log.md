@@ -1226,3 +1226,18 @@ Almost a rest day but not quite - revised some Javascript, HTML and CSS work to 
 
 Great day today! This is project week - my first ever week long hackathon.
 Loved meeting my new team members and love what we achieved today. We wrote our team manifesto, applied the Disney model to idea creation and selection of our own product we are going to build this week. We mapped out our MVP and also set an agenda for our daily team retrospectives. Great day and looking forward to this week immensely.
+
+&nbsp;
+### Day 56: April 25th 2023
+**Today's Progress:**
+
+
+Day 2 of project week. We completed user personas, user flow, Lo-fi wireframe - colour scheme (accessibility check), component tree, basic component structure created & React App boiler plate set up. 
+
+&nbsp;
+<div style="text-align:center">
+<img src="Images/PD2.jpg" alt="Project Day 2" width="50%">
+</div>
+&nbsp;
+
+Also, explored React libraries - Prime React and Bootstrap.🏃‍♀️Homework for all the team to decide whether to go down this route tomorrow. 
