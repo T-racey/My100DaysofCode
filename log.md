@@ -1241,3 +1241,15 @@ Day 2 of project week. We completed user personas, user flow, Lo-fi wireframe - 
 &nbsp;
 
 Also, explored React libraries - Prime React and Bootstrap.🏃‍♀️Homework for all the team to decide whether to go down this route tomorrow. 
+
+&nbsp;
+### Day 57: April 26th 2023
+**Today's Progress:**
+
+3rd day of project week. Great progress today. We are effectively building an automatic support question generator
+
+We set ourselves a task overnight to explore Prime React and Bootstrap libraries to be in a position this morning to decide whether to proceed down the route of using these in our project today. 
+
+We agreed that Prime React was feasible and so we divided up the components and set about using the library. We wrote all of the code for our components today and even deployed useReducer to manage states around three independent buttons. 
+
+We have a problem to solve which is related to pushing form data to the display. Possibly a state issue or maybe a handle submit issue. A problem to resolve first thing this morning! Really looking forward to solving this so that we can then move on to styling.
